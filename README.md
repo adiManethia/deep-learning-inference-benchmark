@@ -2,7 +2,7 @@
 
 A performance evaluation framework comparing runtime engines, optimization tiers, and numeric precision modes across distinct computer vision architectures on an **NVIDIA RTX 4050 Laptop GPU** (Ubuntu, Python 3.12).
 
-📖 **[Read the full engineering breakdown and story on Medium here!]([(https://medium.com/@adigit2075.14111998/deep-learning-inference-pytorch-onnx-and-tensorrt-explained-0850d6c794f1)])**
+📖 **[Read the full engineering breakdown and story on Medium here!][(https://medium.com/@adigit2075.14111998/deep-learning-inference-pytorch-onnx-and-tensorrt-explained-0850d6c794f1)]**
 
 Instead of model accuracy, this project focuses entirely on **production MLOps metrics**: throughput optimization, latency reduction, memory bandwidth constraints, and graph compilation layers.
 
