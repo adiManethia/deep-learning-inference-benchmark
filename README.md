@@ -71,6 +71,18 @@ Aggregated execution metrics collected at a stable evaluation **Batch Size of 32
 
 ---
 
+## Quick Start
+
+```bash
+git clone https://github.com/adiManethia/deep-learning-inference-benchmark.git
+
+cd deep-learning-inference-benchmark
+
+pip install -r requirements.txt
+
+python main.py
+```
+
 ##  Environment Debugging Ledger
 
 ### Resolving Dynamic Linker/Loader Errors (`libcudnn`)
