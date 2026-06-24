@@ -1,6 +1,8 @@
-# Deep Learning Inference Benchmark Suite
+# Deep Learning Inference Benchmark 
 
 A performance evaluation framework comparing runtime engines, optimization tiers, and numeric precision modes across distinct computer vision architectures on an **NVIDIA RTX 4050 Laptop GPU** (Ubuntu, Python 3.12).
+
+📖 **[Read the full engineering breakdown and story on Medium here!](https://your-medium-link-here.com)**
 
 Instead of model accuracy, this project focuses entirely on **production MLOps metrics**: throughput optimization, latency reduction, memory bandwidth constraints, and graph compilation layers.
 
