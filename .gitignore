@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore massive ONNX models or other weights 
+exports/*.onnx 
+exports/*.onnx.data 
+# exports/*.pth
+

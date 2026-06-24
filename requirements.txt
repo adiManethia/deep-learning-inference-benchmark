@@ -1,0 +1,16 @@
+# --- Core Deep Learning Framework ---
+torch>=2.0.0
+torchvision
+
+# --- Inference Engines & Exporters ---
+onnx
+onnxruntime-gpu
+tensorrt
+
+# --- Data Telemetry & Manipulation ---
+numpy
+pandas
+
+# --- Visualization & Reporting ---
+matplotlib
+seaborn
